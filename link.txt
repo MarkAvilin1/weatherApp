@@ -1,1 +1,1 @@
-http://pogoda-ru.stackstaging.com/
+http://pogoda-ru.stackstaging.com/?city=
